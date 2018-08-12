@@ -2,3 +2,4 @@ argparse
 json
 os
 flask
+rethinkdb
